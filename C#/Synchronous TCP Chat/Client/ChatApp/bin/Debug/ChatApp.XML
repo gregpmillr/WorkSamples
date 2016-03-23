@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatApp</name>
+    </assembly>
+    <members>
+        <member name="T:ChatApp.ClientChatForm">
+            <summary>
+            Main form UI class which takes an IClient constructor parameter (dependency injection)
+            </summary>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.#ctor">
+            <summary>
+            Configures XML and initialized Form
+            </summary>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.#ctor(ChatLib.IClient)">
+            <summary>
+            Creates instance of IClient which creates instance of ILoggingService
+            </summary>
+            <param name="tempClient"></param>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.connectToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Connect to server
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.UpdateConvo(System.Object,ChatLib.ListenForMessageEventArgs)">
+            <summary>
+            Handler for Delegate
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.disconnectToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Disconnect from server
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.exitToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            exit the program
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ChatApp.ClientChatForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ChatApp.ClientChatForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ChatApp.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ChatApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ChatApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ChatApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

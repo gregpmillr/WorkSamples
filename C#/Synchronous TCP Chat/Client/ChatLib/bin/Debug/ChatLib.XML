@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatLib</name>
+    </assembly>
+    <members>
+        <member name="T:ChatLib.Client">
+            <summary>
+            Create Client object which implemnts IClient. Must inject logger. 
+            </summary>
+        </member>
+        <member name="F:ChatLib.Client.ListenForMessage">
+            <summary>
+            Listen for message delegate implementation.
+            </summary>
+        </member>
+        <member name="F:ChatLib.Client.stopListening">
+            <summary>
+            Property to check whether client is currently listening.
+            </summary>
+        </member>
+        <member name="M:ChatLib.Client.#ctor(LoggerLib.ILoggingService)">
+            <summary>
+            Constructor to create instance of logger
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:ChatLib.Client.connect(System.String)">
+            <summary>
+            Connect the client to the server with provided port
+            </summary>
+            <param name="server">String</param>
+        </member>
+        <member name="M:ChatLib.Client.sendMessage(System.String)">
+            <summary>
+            Send a message from the client to the server, this contains NetworkStream
+            </summary>
+            <param name="message">String</param>
+        </member>
+        <member name="M:ChatLib.Client.receiveMessage">
+            <summary>
+            Receive message from the server into the client
+            </summary>
+        </member>
+        <member name="M:ChatLib.Client.listeningLoop">
+            <summary>
+            Start listening loop for incoming messages.
+            </summary>
+        </member>
+        <member name="M:ChatLib.Client.disconnect">
+            <summary>
+            Disconnect NetworkStream and Client
+            </summary>
+        </member>
+        <member name="M:ChatLib.Client.getIfListening">
+            <summary>
+            Return bool to check if client is listening
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChatLib.Client.setIfListening(System.Boolean)">
+            <summary>
+            Set client listening for messages
+            </summary>
+            <param name="listening"></param>
+        </member>
+        <member name="M:ChatLib.Client.initDataHandler(ChatLib.ListenForMessageHandler)">
+            <summary>
+            Uses the UpdateConvo method from Form1 (UpdateConvo passed here)
+            </summary>
+            <param name="Handler"></param>
+        </member>
+        <member name="T:ChatLib.ListenForMessageHandler">
+            <summary>
+            Declare delegate for message handler.
+            </summary>
+            <param name="sender">Object sending</param>
+            <param name="e">Instance of ListenForMessageEventArgs</param>
+        </member>
+        <member name="T:ChatLib.IClient">
+            <summary>
+            Interface for Client class
+            </summary>
+        </member>
+        <member name="M:ChatLib.IClient.connect(System.String)">
+            <summary>
+            Connect to the server
+            </summary>
+            <param name="server"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChatLib.IClient.sendMessage(System.String)">
+            <summary>
+            Send string message to networkstream
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:ChatLib.IClient.receiveMessage">
+            <summary>
+            Receive message inside listening loop
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChatLib.IClient.listeningLoop">
+            <summary>
+            Start listening for messages sent over networkstream
+            </summary>
+        </member>
+        <member name="M:ChatLib.IClient.disconnect">
+            <summary>
+            Disconnect from server.
+            </summary>
+        </member>
+        <member name="M:ChatLib.IClient.getIfListening">
+            <summary>
+            Check if client is listening for incoming connection requests.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChatLib.IClient.setIfListening(System.Boolean)">
+            <summary>
+            Set client listening variable
+            </summary>
+            <param name="listening"></param>
+        </member>
+        <member name="M:ChatLib.IClient.initDataHandler(ChatLib.ListenForMessageHandler)">
+            <summary>
+            Set data handler for Client class
+            </summary>
+            <param name="Handler"></param>
+        </member>
+        <member name="T:ChatLib.ListenForMessageEventArgs">
+            <summary>
+            Add event args listener
+            </summary>
+        </member>
+        <member name="M:ChatLib.ListenForMessageEventArgs.#ctor(System.String)">
+            <summary>
+            Constructor for class. Creates object with new message.
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="P:ChatLib.ListenForMessageEventArgs.Message">
+            <summary>
+            Attach message to object
+            </summary>
+        </member>
+    </members>
+</doc>

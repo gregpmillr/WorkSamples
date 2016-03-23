@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatLib</name>
+    </assembly>
+    <members>
+        <member name="M:ChatLib.Client.connect(System.String)">
+            <summary>
+            Connect the client to the server with provided port: 13000
+            </summary>
+            <param name="server">String</param>
+        </member>
+        <member name="M:ChatLib.Client.sendMessage(System.String)">
+            <summary>
+            Send a message from the client to the server, this contains NetworkStream
+            </summary>
+            <param name="Message">String</param>
+        </member>
+        <member name="M:ChatLib.Client.receiveMessage">
+            <summary>
+            Receive message from the server into the client
+            </summary>
+        </member>
+        <member name="M:ChatLib.Server.startServer">
+            <summary>
+            Start the server.
+            </summary>
+        </member>
+        <member name="M:ChatLib.Server.sendMessage(System.String)">
+            <summary>
+            send message from server to client
+            </summary>
+            <param name="data">string</param>
+        </member>
+        <member name="M:ChatLib.Server.receiveMessage">
+            <summary>
+            Receive a message from the server
+            </summary>
+        </member>
+        <member name="M:ChatLib.Server.startListening">
+            <summary>
+            Listen for a connection from the client
+            </summary>
+            <returns>Boolean</returns>
+        </member>
+    </members>
+</doc>

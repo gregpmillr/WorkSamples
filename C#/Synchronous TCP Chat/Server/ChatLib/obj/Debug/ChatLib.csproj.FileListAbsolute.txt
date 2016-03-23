@@ -1,0 +1,10 @@
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatLib\obj\Debug\ChatLib.pdb
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.XML
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.XML
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatLib\obj\Debug\ChatLib.pdb

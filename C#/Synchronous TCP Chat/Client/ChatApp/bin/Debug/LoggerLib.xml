@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoggerLib</name>
+    </assembly>
+    <members>
+        <member name="T:LoggerLib.ChatLog">
+            <summary>
+            ChatLog implements ILoggingService for it's type.
+            </summary>
+        </member>
+        <member name="M:LoggerLib.ChatLog.Log(System.String)">
+            <summary>
+            Append a message to log file.
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:LoggerLib.EnterpriseLogger">
+            <summary>
+            EnterpriseLogger implements ILoggingService, so is of type ILoggingService
+            </summary>
+        </member>
+        <member name="M:LoggerLib.EnterpriseLogger.Log(System.String)">
+            <summary>
+            Append/create to log files
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:LoggerLib.ILoggingService">
+            <summary>
+            Interface to be implemented by Logger classes.
+            </summary>
+        </member>
+        <member name="M:LoggerLib.ILoggingService.Log(System.String)">
+            <summary>
+            Log to a text file or other logging mechanism.
+            </summary>
+            <param name="message"></param>
+        </member>
+    </members>
+</doc>

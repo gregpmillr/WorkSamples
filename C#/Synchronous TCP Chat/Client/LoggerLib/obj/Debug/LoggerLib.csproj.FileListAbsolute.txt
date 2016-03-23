@@ -1,0 +1,9 @@
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\LoggerLib.XML
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\LoggerLib.dll
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\LoggerLib.pdb
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\obj\Debug\LoggerLib.dll
+C:\Users\Gregp\Desktop\w0273754\Advanced OOP\3\Assignment2_PROG2200_GregMiller\LoggerLib\obj\Debug\LoggerLib.pdb

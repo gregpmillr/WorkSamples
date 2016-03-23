@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatConsoleApp</name>
+    </assembly>
+    <members>
+        <member name="M:ChatConsoleApp.Chat.start(System.String[])">
+            <summary>
+            Start and connect server to client
+            </summary>
+            <param name="args">Takes in string args to determine if server or client</param>
+        </member>
+        <member name="M:ChatConsoleApp.Chat.listeningLoop(ChatLib.Messenger)">
+            <summary>
+            Do listening loop waiting for response or keystrokes
+            </summary>
+            <param name="mode">Takes in server of client to listen for</param>
+        </member>
+    </members>
+</doc>

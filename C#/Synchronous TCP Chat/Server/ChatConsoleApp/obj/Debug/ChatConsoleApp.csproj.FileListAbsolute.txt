@@ -1,0 +1,24 @@
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.exe.config
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.exe
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.pdb
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.dll
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.pdb
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.exe
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.pdb
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.XML
+C:\Users\NSCCSTUDENT\Desktop\Advanced OOP\w0274892\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.xml
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.exe.config
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.XML
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.exe
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.pdb
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.dll
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.pdb
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatLib.xml
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.exe
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_EricaSampson\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.pdb
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_GregMiller\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.exe.config
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_GregMiller\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\bin\Debug\ChatConsoleApp.XML
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_GregMiller\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.exe
+C:\Users\Gregp\Desktop\Assignment1_PROG2200_GregMiller\Assignment1_PROG2200_EricaSampson\ChatConsoleApp\obj\Debug\ChatConsoleApp.pdb
