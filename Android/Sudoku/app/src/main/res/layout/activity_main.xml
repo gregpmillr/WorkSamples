@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.greg.assignment2.MainActivity">
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentStart="true"
+        android:id="@+id/txtTimer" />
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myGridView"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/txtTimer"
+        android:numColumns="9" />
+
+    <Button
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myGridView"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:id="@+id/btnReset"
+        android:layout_marginStart="40dp"/>
+
+    <Button
+        android:text="Delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myGridView"
+        android:gravity="center"
+        android:layout_toRightOf="@id/btnReset"
+        android:id="@+id/btnDelete" />
+
+    <Button
+        android:text="Undo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myGridView"
+        android:gravity="center"
+        android:layout_toRightOf="@id/btnDelete"
+        android:textAlignment="center"
+        android:id="@+id/btnUndo" />
+    
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridChangeNumbers"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/btnDelete"
+        android:columnWidth="2dp"
+        android:numColumns="9" />
+
+    <Button
+        android:text="Check Answers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gridChangeNumbers"
+        android:width="500dp"
+        android:gravity="center"
+        android:id="@+id/btnFinish" />
+
+</RelativeLayout>
